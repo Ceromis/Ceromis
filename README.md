@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 个人成就 (Statistics)
+### 📊 时间线 (Statistics)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceromis&show_icons=true&theme=rose_pine_dawn&bg_color=ffffff&hide_border=true&title_color=333333&text_color=666666&icon_color=ffb1b1" />
