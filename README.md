@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 时间线 (Statistics)
+### 📊 个人成就 (Statistics)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceromis&show_icons=true&theme=rose_pine_dawn&bg_color=ffffff&hide_border=true&title_color=333333&text_color=666666&icon_color=ffb1b1" />
@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyeXF4cm9oZ3F4Z3F4Z3F4Z3F4Z3F4Z3F4Z3F4Z3F4Z3F4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/kI98S47m4fCmxXG3f8/giphy.gif" width="120" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="60" />
 
 <p align="right">
   <i>"Dreaming in code, living in pixels."</i> <br/>
